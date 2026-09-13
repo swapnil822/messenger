@@ -1,1 +1,5 @@
-{}
+{
+  "dependencies": {
+    "@swapnil454/tracepilot": "^0.1.2"
+  }
+}
